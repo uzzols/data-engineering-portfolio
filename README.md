@@ -37,9 +37,9 @@ Welcome to my Data Engineering Portfolio — a collection of hands-on projects b
 ## 📬 Contact
 
 **Ahsan Kabir**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📂 [GitHub](https://github.com/yourusername)
+📧 uzzol.kabir@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/Ahsan Kabir)  
+📂 [GitHub](https://github.com/uzzols)
 
 ---
 
